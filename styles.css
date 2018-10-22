@@ -1,0 +1,33 @@
+body {
+    background-color: #000000;
+}
+
+
+.navbar {
+    margin: 1px;
+    padding: 2px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFF;
+
+}
+
+.nav-item:hover {
+    background-color: #777;
+    color: #999;
+}
+.nav-link {
+    padding: 5px;
+    text-decoration-style: none;
+}
+
+.nav-link ul {
+    background-color: red;
+    padding: 5px;
+    text-decoration-style: none;
+}
+
+p.about {
+    font-size: 14px;
+    color: blue;
+}
